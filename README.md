@@ -1,2 +1,2 @@
 # bowni-tarifi
-browni
+html dersleri kapsamında öğrendiğim eğitimi alıştırma yaparak geliştiriyorum.
